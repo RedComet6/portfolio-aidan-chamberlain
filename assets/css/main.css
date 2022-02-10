@@ -269,6 +269,11 @@ a img:hover {
     margin-top: 3rem;
 }
 
+/* min-max height classes */
+.max-h-8 {
+    max-height: 8rem;
+}
+
 /* min-max width classes */
 .max-w-2 {
     max-width: 2rem;
