@@ -336,6 +336,14 @@ a img:hover {
     padding: 0;
 }
 
+.p0p5 {
+    padding: 0.5rem;
+}
+
+.p1 {
+    padding: 1rem;
+}
+
 .p {
     padding: 1.5rem;
 }
@@ -401,6 +409,10 @@ a img:hover {
     width: 100%;
 }
 
+.w-100vw {
+    width: 100vw;
+}
+
 .w-fc {
     width: fit-content;
 }
@@ -455,8 +467,30 @@ a img:hover {
 
 /* for small browser size */
 @media (max-width: 767px) {
+    :target {
+        display: block;
+        position: relative;
+        top: -13rem;
+        visibility: hidden;
+    }
+
+    #about-me:target {
+        display: block;
+        position: relative;
+        top: -15rem;
+        visibility: hidden;
+    }
+
     .pt-8\@sm {
         padding-top: 8rem;
+    }
+
+    .pt-13\@sm {
+        padding-top: 13rem;
+    }
+
+    .mb-0p5\@sm {
+        margin-bottom: 0.5rem;
     }
 
     .mt\@sm {
