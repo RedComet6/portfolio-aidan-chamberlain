@@ -37,7 +37,7 @@ a img:hover {
 #about-me:target {
     display: block;
     position: relative;
-    top: -24rem;
+    top: -10rem;
     visibility: hidden;
 }
 
@@ -151,6 +151,10 @@ a img:hover {
     height: 100vh;
 }
 
+.h-a {
+    height: auto;
+}
+
 /* font classes */
 .ff-impact {
     font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
@@ -233,6 +237,10 @@ a img:hover {
     margin: 0;
 }
 
+.m0p5 {
+    margin: 0.5rem;
+}
+
 .m1 {
     margin: 1rem;
 }
@@ -253,6 +261,10 @@ a img:hover {
     margin-bottom: 1.5rem;
 }
 
+.mb-0p5 {
+    margin-bottom: 0.5rem;
+}
+
 .ml {
     margin-left: 1.5rem;
 }
@@ -263,6 +275,10 @@ a img:hover {
 
 .mt {
     margin-top: 1.5rem;
+}
+
+.mt-0p5 {
+    margin-top: 0.5rem;
 }
 
 .mt-3 {
@@ -445,5 +461,9 @@ a img:hover {
 
     .mt\@sm {
         margin-top: 1rem;
+    }
+
+    .ta-c\@sm {
+        text-align: center;
     }
 }
