@@ -1,4 +1,4 @@
-# hw8-portfolio-aidan-chamberlain
+# portfolio-aidan-chamberlain
 
 ## Description
 
