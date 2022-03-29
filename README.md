@@ -38,5 +38,5 @@ If you have any questions, you may contact:
 #### Aidan Chamberlain
 
 Email: asunshine99@gmail.com  
-Github Profile: [https://www.github.com/RedComet6](https://www.github.com/RedComet6)
+Github Profile: [https://www.github.com/RedComet6](https://www.github.com/RedComet6)  
 LinkedIn Profile: [https://www.linkedin.com/in/aidan-chamberlain-776b8b90](https://www.linkedin.com/in/aidan-chamberlain-776b8b90)
